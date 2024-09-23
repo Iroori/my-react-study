@@ -1,5 +1,8 @@
-import {add, sub} from "./math.js";
+// import {add, sub} from "./math.js";
 
-console.log(add(1,2));
+import randomColor from "randomcolor";
 
-console.log(sub(2,1));
+console.log(randomColor());
+// console.log(add(1,2));
+
+// console.log(sub(2,1));
